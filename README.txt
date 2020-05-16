@@ -1,0 +1,3 @@
+Upload a video file in the same folder of the object detection python files.
+Copy the name of your video file in the VideoCapture() function.
+Now run the code and select the object and enjoy tracking...
